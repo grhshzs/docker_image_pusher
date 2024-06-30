@@ -1,1 +1,1 @@
-docker.io/pinetwork/pi-node-docker
+pinetwork/pi-node-docker
